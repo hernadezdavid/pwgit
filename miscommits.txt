@@ -1,0 +1,17 @@
+commit 8ff48f256c3bdaa92ddcd3d09654015167e485c5
+Author: rochinhumberto <rochinhumberto@gmail.com>
+Date:   Tue Apr 28 10:41:23 2015 -0600
+
+    Header fondo azul, letras blancas
+
+commit b47fea50dfe1f08e60d46d925427e8b0da23333d
+Author: rochinhumberto <rochinhumberto@gmail.com>
+Date:   Tue Apr 28 10:36:25 2015 -0600
+
+    Header y estructura de secciones
+
+commit dad49dd9328944b5369785ef7c68635f6eccf8d8
+Author: rochinhumberto <rochinhumberto@gmail.com>
+Date:   Tue Apr 28 10:31:09 2015 -0600
+
+    Primer Commit
